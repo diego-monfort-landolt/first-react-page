@@ -1,0 +1,18 @@
+.btnclear {
+    height: 30px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid #000;
+    background-color: red;
+    border-radius: 10px 0 10px 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-top: 8px;
+}
+.btnclear:hover {
+    background-color: rgb(112, 2, 2);
+}
